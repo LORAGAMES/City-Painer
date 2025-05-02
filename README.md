@@ -11,10 +11,9 @@ In **City Painter**, players gently scrape away the gray coating that hides brea
 - Use your **scraper** tool to reveal vibrant cityscapes piece by piece.
 - Enjoy immersive **ASMR sound effects** as you scrape – think soft swishes, clicks, and crumbles.
 - Relax to peaceful **background soundtracks** including:
-  - ☔ Rainy days  
-  - 🔥 Cozy fires  
-  - 🐦 Chirping birds  
-  - ⚡ Occasional thunder  
+  - ☔ Rainy days
+  - 🔥 Cozy fires
+  - ⚡ Occasional thunder
   - And even **cats meowing** in the distance...
 
 ## 🌈 Features
